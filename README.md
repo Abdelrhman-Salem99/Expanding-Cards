@@ -2,7 +2,7 @@
 
 
 
-About
+Technology I used
 ---
 - HTML 
 - css 
