@@ -11,4 +11,4 @@ About
 
 --- 
 
-## Live Demo : <https://abdelrhman-salem99.github.io/Expanding-Cards/>
+## Live Demo : <https://lnkd.in/dX9Nfi6>
